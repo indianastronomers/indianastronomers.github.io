@@ -5,15 +5,20 @@ title: Events
 
 # Events
 
-This page lists events in reverse chronological order. Each event page contains details including speaker, abstract, date/time, format, and links to recordings or slides when available.
+This page lists all **past, ongoing, and upcoming events** organized under the Indian Astronomers Around the World initiative.
 
-{% raw %}{% assign events = site.pages | where: "event", true | sort: "date" | reverse %}{% endraw %}
+Events are listed in **reverse chronological order**.
 
-{% raw %}{% if events.size > 0 %}{% endraw %}
-{% raw %}{% for e in events %}{% endraw %}
-- **[{% raw %}{{{% endraw %} e.title {% raw %}}}{% endraw %}]({{ e.url | relative_url }})** — {% raw %}{{ e.date | date: "%Y-%m-%d %H:%M %Z" }}{% endraw %}  
-  {% raw %}{{ e.summary }}{% endraw %}
-{% raw %}{% endfor %}{% endraw %}
-{% raw %}{% else %}{% endraw %}
-No events yet. Check back soon.
-{% raw %}{% endif %}{% endraw %}
+---
+
+{% assign sorted_events = site.pages | where_exp:"p","p.path contains 'events/'" | sort: "date" | reverse %}
+{% for event in sorted_events %}
+{% if event.event %}
+### {{ event.title }}
+**Date:** {{ event.date | date: "%d %B %Y" }}  
+{{ event.summary }}  
+[View details →]({{ event.url }})
+
+---
+{% endif %}
+{% endfor %}

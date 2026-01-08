@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <title>Events | Indian Astronomers Around the World</title>
     <meta name="description" content="A platform for Indian astronomers working around the world: exchange, collaborate, and host events.">
+    <link rel="icon" href="/favicon.ico">
     <link rel="stylesheet" href="/assets/css/style.css">
   </head>
   <body>
@@ -22,29 +23,19 @@
     <main class="container">
       <h1 id="events">Events</h1>
 
-<p>This page lists events in reverse chronological order. Each event page contains details including speaker, abstract, date/time, format, and links to recordings or slides when available.</p>
+<p>This page lists all <strong>past, ongoing, and upcoming events</strong> organized under the Indian Astronomers Around the World initiative.</p>
 
-<table>
-  <tbody>
-    <tr>
-      <td>{% assign events = site.pages</td>
-      <td>where: “event”, true</td>
-      <td>sort: “date”</td>
-      <td>reverse %}</td>
-    </tr>
-  </tbody>
-</table>
+<p>Events are listed in <strong>reverse chronological order</strong>.</p>
 
-<p>{% if events.size &gt; 0 %}
-{% for e in events %}</p>
-<ul>
-  <li><strong><a href="">{{ e.title }}</a></strong> — {{ e.date | date: “%Y-%m-%d %H:%M %Z” }}<br />
-{{ e.summary }}
-{% endfor %}
-{% else %}
-No events yet. Check back soon.
-{% endif %}</li>
-</ul>
+<hr />
+
+<h3 id="online-hands-on-workshop--topcat-for-astronomical-data-analysis">Online Hands-On Workshop – TOPCAT for Astronomical Data Analysis</h3>
+<p><strong>Date:</strong> 15 January 2026<br />
+Online hands-on workshop on TOPCAT for astronomical data exploration and analysis, supervised by Dr. Mark Taylor.<br />
+<a href="/events/2026-01-15-workshop-topcat/">View details →</a></p>
+
+<hr />
+
 
     </main>
 
