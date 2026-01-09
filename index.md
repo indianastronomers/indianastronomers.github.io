@@ -3,8 +3,6 @@ layout: default
 title: Indian Astronomers Around the World
 ---
 
-# Indian Astronomers Around the World
-
 **Indian Astronomers Around the World (IAAW)** is a community-driven initiative connecting Indian astronomers working across the globe — including faculty members, postdoctoral researchers, PhD students, and early-career scientists.
 
 The initiative aims to foster knowledge exchange, collaboration, and mentorship within the Indian astronomy and astrophysics community worldwide.
@@ -53,8 +51,8 @@ You can contribute to the initiative by:
 - Volunteering to help organize events
 - Suggesting collaborative activities or discussion topics
 
-📧 **Contact:** `(to be added)`  
-💻 **GitHub:** [indianastronomer.github.io](https://github.com/sayanpanda/indianastronomers.github.io)
+📧 **Contact:** [Shoot Us Email](mailto:indian.astronomers.2026@gmail.com)  
+💻 **GitHub:** [GitHub Repo](https://github.com/sayanpanda/indianastronomers.github.io)
 
 ---
 
