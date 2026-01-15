@@ -51,8 +51,14 @@ You can contribute to the initiative by:
 - Volunteering to help organize events
 - Suggesting collaborative activities or discussion topics
 
+<<<<<<< HEAD
 📧 **Contact:** [Shoot Us Email](mailto:indian.astronomers.2026@gmail.com)  
 💻 **GitHub:** [GitHub Repo](https://github.com/sayanpanda/indianastronomers.github.io)
+=======
+📧 **Contact:** [Email Us](mailto:indian.astronomers.2026@gmail.com) \
+💻 **GitHub:** [indianastronomer.github.io](https://github.com/sayanpanda/indianastronomers.github.io) \
+▶️ **YouTube:** [Astronomer](shttps://www.youtube.com/@Astronomers-2026)
+>>>>>>> 2056b6a (Resolve merge conflict in index.md)
 
 ---
 
