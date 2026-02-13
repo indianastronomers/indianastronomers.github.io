@@ -29,11 +29,17 @@ Instituto de Astronomía, UNAM, Mexico, Developer of PyNeb
 
 ## Bio
 
+<div style="text-align: justify;">
+
 Dr. Christophe Morisset is a staff researcher at the Instituto de Astronomía of the Universidad Nacional Autónoma de México (IA-UNAM) in Ensenada, Baja California, and a professor in the postgraduate programme in Astrophysics at UNAM.
 
 Dr. Morisset obtained his PhD in 1996 at the Paris-Meudon observatory (France), with a thesis supervised by Prof. Daniel Pequignot on characterizing the nebular emission of nova ejecta. He later completed postdoctoral stays in Marseille and Sao Paulo (Brazil) until 2003, when he joined the IA-UNAM staff in Mexico City as an associate researcher. In 2018 he moved to the IA-UNAM headquarters in Ensenada, Baja California.
 
 His line of research is mainly linked to the development of theoretical models of ionized nebulae for the analysis of their emission and the determination of their characteristics. To achieve these studies, he has developed original methods. In particular, he has developed the pyNeb and pyCloudy libraries; the former is a set of tools to calculate atomic line emission for abundance calculations and is widely used in the field, the latter is an interface to the Cloudy photoionization code (Ferland et al. 2017) that allows the generation of 3D models or large model samples. Recently, Dr. Morisset has used this latter library for the development of the Mexican Million Models dataBase (3MdB, Morisset et al. 2014), where more than 2 million photoionization and shock models have been registered and are publicly and easily accessible for many theoretical studies. Dr. Morisset collaborates with several research groups, both in the study of individual objects such as Planetary Nebulae or star-forming regions, and in the study of large samples of such objects for statistical analysis. He is part of the team studying nearby galaxies with the CALIFA survey (Sánchez et al., Morisset 2016) or the survey SIGNALS (Rousseau-Nepton et al., 2018). 
+
+
+</div>
+
 
 ---
 
@@ -93,6 +99,12 @@ Interested participants are requested to register using the Google Form below:
 - [Demonstration Script](https://github.com/Morisset/PyNeb_devel/blob/master/docs/Notebooks/Some_examples.ipynb)
 
 ---
+
+## Event Poster
+<img src="/assets/images/pyneb_workshop_poster.jpeg" 
+     alt="PyNeb Workshop Poster" 
+     style="max-width:100%; height:auto; display:block; margin:auto;">
+
 
 ## Organizers
 
