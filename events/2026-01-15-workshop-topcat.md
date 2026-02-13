@@ -14,10 +14,13 @@ summary: Online hands-on workshop on TOPCAT for astronomical data exploration an
 
 ## Description
 
+<p>
 Indian Astronomers Around the World (IAAW) is organizing an **online hands-on workshop** on **TOPCAT**, a widely used astronomical data analysis tool for working with large catalogs and survey data.
+</p>
 
+<p>
 The session will focus on **practical, hands-on usage** of TOPCAT for data exploration, visualization, and analysis, and will be supervised by the developer of TOPCAT.
-
+</p>
 ---
 
 ## Instructor
