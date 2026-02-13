@@ -40,7 +40,7 @@ Dr. Christophe Morisset is a staff researcher at the Instituto de Astronomía of
 </p>
 
 <p>
-His line of research is mainly linked to the development of theoretical models of ionized nebulae for the analysis of their emission and the determination of their characteristics. To achieve these studies, he has developed original methods. In particular, he has developed the pyNeb and pyCloudy libraries; the former is a set of tools to calculate atomic line emission for abundance calculations and is widely used in the field, the latter is an interface to the Cloudy photoionization code (Ferland et al. 2017) that allows the generation of 3D models or large model samples. Recently, Dr. Morisset has used this latter library for the development of the Mexican Million Models dataBase (3MdB, Morisset et al. 2014), where more than 2 million photoionization and shock models have been registered and are publicly and easily accessible for many theoretical studies. Dr. Morisset collaborates with several research groups, both in the study of individual objects such as Planetary Nebulae or star-forming regions, and in the study of large samples of such objects for statistical analysis. He is part of the team studying nearby galaxies with the CALIFA survey (Sánchez et al., Morisset 2016) or the survey SIGNALS (Rousseau-Nepton et al., 2018). 
+His line of research is mainly linked to the development of theoretical models of ionized nebulae for the analysis of their emission and the determination of their characteristics. To achieve these studies, he has developed original methods. In particular, he has developed the <b>pyNeb</b> and <b>pyCloudy</b> libraries; the former is a set of tools to calculate atomic line emission for abundance calculations and is widely used in the field, the latter is an interface to the Cloudy photoionization code (Ferland et al. 2017) that allows the generation of 3D models or large model samples. Recently, Dr. Morisset has used this latter library for the development of the Mexican Million Models dataBase (3MdB, Morisset et al. 2014), where more than 2 million photoionization and shock models have been registered and are publicly and easily accessible for many theoretical studies. Dr. Morisset collaborates with several research groups, both in the study of individual objects such as Planetary Nebulae or star-forming regions, and in the study of large samples of such objects for statistical analysis. He is part of the team studying nearby galaxies with the CALIFA survey (Sánchez et al., Morisset 2016) or the survey SIGNALS (Rousseau-Nepton et al., 2018). 
 </p>
 
 </div>
@@ -99,9 +99,17 @@ Interested participants are requested to register using the Google Form below:
 
 ## Resources
 
+## Resources
+
 - [PyNeb Website](https://research.iac.es/proyecto/PyNeb/)
 - [PyNeb Documentation](https://github.com/Morisset/PyNeb_devel/tree/master/docs)
 - [Demonstration Script](https://github.com/Morisset/PyNeb_devel/blob/master/docs/Notebooks/Some_examples.ipynb)
+
+- Publicatons:
+  - PyNeb: Analysis of emission lines (Luridiana et al. 2013)
+  - PyNeb: a new tool for analyzing emission lines I. Code description and validation of results (Luridiana et al. 2015)
+  - Atomic Data Assessment with PyNeb (Morisset et al. 2020)
+  - Atomic Data Assessment with PyNeb: Radiative and Electron Impact Excitation Rates for [Fe II] and [Fe III] (Mendoza et al. 2023)
 
 ---
 
