@@ -14,13 +14,17 @@ summary: Online hands-on workshop on TOPCAT for astronomical data exploration an
 
 ## Description
 
+<div style="text-align: justify;">
+
+<div>
 <p>
-Indian Astronomers Around the World (IAAW) is organizing an <b>online hands-on workshop</b> on <b>TOPCAT</b>, a widely used astronomical data analysis tool for working with large catalogs and survey data.
+Indian Astronomers Around the World (IAAW) is organizing an <b>online hands-on workshop</b> on <b>PyNeb</b>, a widely used astronomical data analysis tool for analyzing emission lines and physical conditions of ISM.
 </p>
 
 <p>
-The session will focus on <b>practical, hands-on usage</b> of TOPCAT for data exploration, visualization, and analysis, and will be supervised by the developer of TOPCAT.
+The session will include <b>conceptual discussions along with practical guidance</b> on using PyNeb for real data analysis. Time will be reserved for questions and interaction. 
 </p>
+</div>
 ---
 
 ## Instructor
