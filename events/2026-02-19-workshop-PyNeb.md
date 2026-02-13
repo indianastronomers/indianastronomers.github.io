@@ -15,11 +15,11 @@ summary: Online hands-on workshop on 'From Emission Lines to Physical Conditions
 ## Description
 
 <p>
-Indian Astronomers Around the World (IAAW) is organizing an **online hands-on workshop** on **PyNeb**, a widely used astronomical data analysis tool for analyzing emission lines and physical conditions of ISM.
+Indian Astronomers Around the World (IAAW) is organizing an <b>online hands-on workshop</b> on <b>PyNeb</b>, a widely used astronomical data analysis tool for analyzing emission lines and physical conditions of ISM.
 </p>
 
 <p>
-The session will include **conceptual discussions along with practical guidance** on using PyNeb for real data analysis. Time will be reserved for questions and interaction. 
+The session will include <b>conceptual discussions along with practical guidance</b> on using PyNeb for real data analysis. Time will be reserved for questions and interaction. 
 </p>
 ---
 
