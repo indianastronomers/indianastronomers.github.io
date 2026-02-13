@@ -36,7 +36,7 @@ Instituto de Astronomía, UNAM, Mexico, Developer of PyNeb
 <div style="text-align: justify;">
 
 <p>
-Dr. Christophe Morisset is a staff researcher at the Instituto de Astronomía of the Universidad Nacional Autónoma de México (IA-UNAM) in Ensenada, Baja California, and a professor in the postgraduate programme in Astrophysics at UNAM. Dr. Morisset obtained his PhD in 1996 at the Paris-Meudon observatory (France), with a thesis supervised by Prof. Daniel Pequignot on characterizing the nebular emission of nova ejecta. He later completed postdoctoral stays in Marseille and Sao Paulo (Brazil) until 2003, when he joined the IA-UNAM staff in Mexico City as an associate researcher. In 2018 he moved to the IA-UNAM headquarters in Ensenada, Baja California.
+Dr. Christophe Morisset is an astronomer at the Instituto de Astronomía of the Universidad Nacional Autónoma de México (IA-UNAM), Mexico and a professor of Instituto de Ciencias Fisicas - UNAM, Mexico. Dr. Morisset obtained his PhD in 1996 at the Paris-Meudon observatory (France), with a thesis supervised by Prof. Daniel Pequignot on characterizing the nebular emission of nova ejecta. He later completed postdoctoral stays in Marseille and Sao Paulo (Brazil) until 2003, when he joined the IA-UNAM staff in Mexico City as an associate researcher. In 2018 he moved to the IA-UNAM headquarters in Ensenada, Baja California.
 </p>
 
 <p>
