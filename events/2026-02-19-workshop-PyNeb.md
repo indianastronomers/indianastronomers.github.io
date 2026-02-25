@@ -75,10 +75,7 @@ Online
 ---
 
 ## Registration
-
-Interested participants are requested to register using the Google Form below:
-
-👉 **[here](https://docs.google.com/forms/d/1AZ5VU2KOIGI9My-5t_wWwqm1mte9tT0ty18UmOMMfQM/edit)**
+Registraton is closed now. The event is over. For event video, check this 👉 [Youtube Link](https://www.youtube.com/watch?v=-CCcm9uD3sY)
 
 ---
 
@@ -100,7 +97,8 @@ Interested participants are requested to register using the Google Form below:
 ## Resources
 
 ## Resources
-
+- [Youtube Link](https://www.youtube.com/watch?v=-CCcm9uD3sY) of the event.
+  
 - [PyNeb Website](https://research.iac.es/proyecto/PyNeb/)
 - [PyNeb Documentation](https://github.com/Morisset/PyNeb_devel/tree/master/docs)
 - [Demonstration Script](https://github.com/Morisset/PyNeb_devel/blob/master/docs/Notebooks/Some_examples.ipynb)
