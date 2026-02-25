@@ -93,7 +93,7 @@ Online
 
 ## Registration
 
-Registraton is closed now. The event is over. For event video, check this [Youtube Link](https://www.youtube.com/watch?v=KtC6_dGGfUc)
+Registraton is closed now. The event is over. For event video, check this 👉 [Youtube Link](https://www.youtube.com/watch?v=KtC6_dGGfUc)
 
 ---
 
