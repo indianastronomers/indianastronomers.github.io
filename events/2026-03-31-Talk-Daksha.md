@@ -58,7 +58,8 @@ Varun Bhalerao is a recipient of the Vainu Bappu gold medal of the Astronomical 
 ## Date & Time
 
 - **Date:** 31 March 2026
-- **Time:** 9:00 PM IST / 12:30 PM CLT 
+- **Time:** 9:00 PM IST / 12:30 PM CLT
+  
 ---
 
 ## Mode
@@ -78,6 +79,7 @@ Fillup this 👉 [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSceVYJH0
 - Postdoc researchers  
 - Early-career researchers  
 - Researchers working on gamma-ray bursts, compact-object mergers, and other high-energy transient events
+
 ---
 
 ## Prerequisites
