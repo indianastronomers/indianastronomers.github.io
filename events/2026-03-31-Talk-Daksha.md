@@ -6,7 +6,7 @@ event: true
 summary:  Online Talk – Unveiling the cosmic hunt for explosions with Daksha (Indian Eyes on Transient Skies), by Dr. Varun Bhalerao, IIT-Bombay, India.
 ---
 
-## Workshop Title
+## Talk Title
 
 **Unveiling the cosmic hunt for explosions with Daksha (Indian Eyes on Transient Skies)**
 
@@ -24,7 +24,7 @@ The talk will provide an overview of the <b>instrumental design and capabilities
 
 ---
 
-## Resource Person
+## Speaker
 
 **Dr. Varun Bhalerao**  
 Associate Professor, Indian Institute of Technology, Bombay
