@@ -15,7 +15,7 @@ summary:  Online Talk – Unveiling the cosmic hunt for explosions with Daksha (
 ## Description
 
 <p>
-Indian Astronomers Around the World (IAAW) is organizing an <b>online hands-on workshop</b> on <b>PyNeb</b>, a widely used astronomical data analysis tool for analyzing emission lines and physical conditions of ISM.
+Indian Astronomers Around the World (IAAW) is organizing an <b>online talk on Daksha Space Mission</b> on <b>PyNeb</b>, a proposed Indian space mission led by IIT Bombay featuring two high-energy, all-sky space telescopes designed to detect gamma-ray bursts (GRBs) and gravitational wave counterparts.
 </p>
 
 <p>
