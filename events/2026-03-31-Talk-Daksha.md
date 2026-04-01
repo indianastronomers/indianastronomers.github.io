@@ -69,8 +69,7 @@ Online
 ---
 
 ## Registration
-Fillup this 👉 [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSceVYJH0lTL5WyYN0ZsSn43pXaq6N2qr2sGmC3pS52QqDLzNw/viewform)
-
+The event is over.  
 ---
 
 ## Target Audience
