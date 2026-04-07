@@ -69,7 +69,7 @@ Online
 ---
 
 ## Registration
-The event is over.  
+The event is over. You can find the recorded video at our [Youtube Channel](https://youtu.be/ALJwDWeMvTE).
 ---
 
 ## Target Audience
@@ -88,6 +88,7 @@ The event is over.
 ---
 
 ## Links/Resources
+- [Youtube](https://youtu.be/ALJwDWeMvTE) link of the event.
 - [Profile](https://www.star-iitb.in/group/varun-bhalerao) of the speaker.
   
 - [Daksha Mission Website](https://www.dakshasat.in/)
