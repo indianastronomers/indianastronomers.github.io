@@ -23,7 +23,7 @@ The <b>Vera C. Rubin Observatory</b> will produce millions of alerts every night
 </p>
 
 <p>
-The talk will cover how ALeRCE <b>ingests and processes alerts</b>, extracts useful information and builds features, uses <b>machine learning and other tools to classify interesting transients and variable sources</b>, and distributes alerts and derived products to the astronomical community for follow-up. We will also discuss tools available for exploring and working with the alert stream.
+This talk will provide an introduction to <b>ALeRCE</b> and its role in the Rubin Observatory era, covering how ALeRCE <b>ingests and processes alerts</b>, extracts useful information and builds features, uses <b>machine learning and other tools to classify interesting transients and variable sources</b>, and distributes alerts and derived products to the astronomical community for follow-up. We will also discuss tools available for exploring and working with the alert stream.
 </p>
 
 ---
@@ -77,7 +77,8 @@ Prof. Förster received his Ph.D. in Astronomy from the University of Oxford in 
 
 ## Mode
 
-Online (Zoom / link to be shared)
+Online (Zoom link to be shared)
+Plz fill this [form](https://docs.google.com/forms/d/e/1FAIpQLSevbId2eudUkl9qX787UPWGz4piGy6s-tqJ9KbUhP_UfYY9Iw/viewform) for registration.
 
 ---
 
