@@ -58,7 +58,7 @@ You can contribute to the initiative by:
 📧 **Contact:** [Email Us](mailto:indian.astronomers.2026@gmail.com) \
 💻 **GitHub:** [indianastronomer.github.io](https://github.com/sayanpanda/indianastronomers.github.io) \
 ▶️ **YouTube:** [Astronomer](https://youtube.com/@astronomers-2026?si=fduJpzp6VI_I4NfC)
->>>>>>> 2056b6a (Resolve merge conflict in index.md)
+%>>>>>>> 2056b6a (Resolve merge conflict in index.md)
 
 ---
 
