@@ -54,8 +54,6 @@ You can contribute to the initiative by:
 <!-- <<<<<<< HEAD -->
 📧 **Contact:** [Shoot Us Email](mailto:indian.astronomers.2026@gmail.com)  
 💻 **GitHub:** [GitHub Repo](https://github.com/sayanpanda/indianastronomers.github.io)
-
----
 📧 **Contact:** [Email Us](mailto:indian.astronomers.2026@gmail.com) \
 💻 **GitHub:** [indianastronomer.github.io](https://github.com/sayanpanda/indianastronomers.github.io) \
 ▶️ **YouTube:** [Astronomer](https://youtube.com/@astronomers-2026?si=fduJpzp6VI_I4NfC)
