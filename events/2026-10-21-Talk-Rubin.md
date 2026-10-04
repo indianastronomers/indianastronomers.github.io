@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Online Talk – From Rubin Alerts to Science: Exploring the ALeRCE Alert Broker
+title: "Online Talk - From Rubin Alerts to Science: Exploring the ALeRCE Alert Broker"
 date: 2026-10-21
 event: true
-summary: Online Talk – From Rubin Alerts to Science: Exploring the ALeRCE Alert Broker, by Prof. Francisco Förster, Universidad de Chile, Director of the Millennium Institute of Astrophysics.
+summary: "Online Talk - From Rubin Alerts to Science: Exploring the ALeRCE Alert Broker, by Prof. Francisco Förster, Universidad de Chile, Director of the Millennium Institute of Astrophysics."
 ---
 
 ## Talk Title
