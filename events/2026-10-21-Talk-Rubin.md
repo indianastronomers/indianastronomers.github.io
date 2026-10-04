@@ -77,8 +77,7 @@ Prof. Förster received his Ph.D. in Astronomy from the University of Oxford in 
 
 ## Mode
 
-Online (Zoom link to be shared)
-Plz fill this [form](https://docs.google.com/forms/d/e/1FAIpQLSevbId2eudUkl9qX787UPWGz4piGy6s-tqJ9KbUhP_UfYY9Iw/viewform) for registration.
+Online (Zoom link to be shared). Please fill this [form](https://docs.google.com/forms/d/e/1FAIpQLSevbId2eudUkl9qX787UPWGz4piGy6s-tqJ9KbUhP_UfYY9Iw/viewform) for registration.
 
 ---
 
